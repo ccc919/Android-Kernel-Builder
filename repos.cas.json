@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Mi 10 Ultra",
-      "repo": "https://github.com/AcmeUI-Devices/android_kernel_xiaomi_cas",
-      "branch": "taffy",
+      "repo": "https://github.com/XayahSuSuSu/android_kernel_xiaomi_cas",
+      "branch": "arrow-13.0",
       "device": "cas",
       "defconfig": "cas_defconfig"
     },
