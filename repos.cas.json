@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Mi 10 Ultra",
       "repo": "https://github.com/CoolestEnoch/kernel-su-xiaomi-cas",
-      "branch": "main/kernel",
+      "branch": "main",
       "device": "cas",
       "defconfig": "cas_defconfig"
     },
