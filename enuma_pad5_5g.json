@@ -5,7 +5,7 @@
       "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
       "branch": "android13-stable",
       "device": "enuma",
-      "defconfig": "cas_defconfig"
+      "defconfig": "enuma_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -48,7 +48,7 @@
       "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
       "branch": "android13-stable",
       "device": "enuma",
-      "defconfig": "cas_defconfig"
+      "defconfig": "enuma_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -91,7 +91,7 @@
       "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
       "branch": "android13-stable",
       "device": "enuma",
-      "defconfig": "cas_defconfig"
+      "defconfig": "enuma_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
