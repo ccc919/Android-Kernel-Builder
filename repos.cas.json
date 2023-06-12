@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Mi10Ultra-KernelSU-Proton-release",
-      "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
-      "branch": "aosp",
+      "repo": "https://github.com/AcmeUI-Devices/android_kernel_xiaomi_cas",
+      "branch": "taffy",
       "device": "cas",
       "defconfig": "cas_defconfig"
     },
@@ -45,8 +45,8 @@
   {
     "kernelSource": {
       "name": "Mi10Ultra-KernelSU-Proton-noanykernel-release",
-      "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
-      "branch": "aosp",
+      "repo": "https://github.com/AcmeUI-Devices/android_kernel_xiaomi_cas",
+      "branch": "taffy",
       "device": "cas",
       "defconfig": "cas_defconfig"
     },
@@ -88,8 +88,8 @@
   {
     "kernelSource": {
       "name": "Mi10Ultra-KernelSU-Proton-anykernel-norelease",
-      "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
-      "branch": "aosp",
+      "repo": "https://github.com/AcmeUI-Devices/android_kernel_xiaomi_cas",
+      "branch": "taffy",
       "device": "cas",
       "defconfig": "cas_defconfig"
     },
