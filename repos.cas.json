@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Mi 10 Ultra-KernelSU-Proton-release",
+      "name": "Mi10Ultra-KernelSU-Proton-release",
       "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
       "branch": "aosp",
       "device": "cas",
@@ -44,7 +44,7 @@
   },
   {
     "kernelSource": {
-      "name": "Mi 10 Ultra-KernelSU-Proton-noanykernel-release",
+      "name": "Mi10Ultra-KernelSU-Proton-noanykernel-release",
       "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
       "branch": "aosp",
       "device": "cas",
@@ -87,7 +87,7 @@
   },
   {
     "kernelSource": {
-      "name": "Mi 10 Ultra-KernelSU-Proton-anykernel-norelease",
+      "name": "Mi10Ultra-KernelSU-Proton-anykernel-norelease",
       "repo": "https://github.com/Rohail33/Realking_kernel_sm8250",
       "branch": "aosp",
       "device": "cas",
