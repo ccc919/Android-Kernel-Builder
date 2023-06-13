@@ -39,7 +39,7 @@
       "use": true,
       "release": true,
       "repo": "https://github.com/ccc919/AnyKernel3/",
-      "branch": "k305g"
+      "branch": "k305G"
     }
   },
   {
@@ -82,7 +82,7 @@
       "use": false,
       "release": true,
       "repo": "https://github.com/ccc919/AnyKernel3/",
-      "branch": "k305g"
+      "branch": "k305G"
     }
   },
   {
@@ -125,7 +125,7 @@
       "use": true,
       "release": false,
       "repo": "https://github.com/ccc919/AnyKernel3/",
-      "branch": "k305g"
+      "branch": "k305G"
     }
   }
 ]
